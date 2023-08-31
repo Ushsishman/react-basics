@@ -1,3 +1,3 @@
 # Overview
 >
-This project made with react and tailwindcss.Its just basics
+This project made with react,tailwindcss,vitejs .Its just basics
